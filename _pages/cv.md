@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "CV"
+layout: page
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of California, Irvine, 2023-2028 (expected)
+* M.S. in Electrical Engineering, Indian Institute of Technology Delhi, 2020-2023
+* B.Tech. in Electronics & Communication Engineering, National Institute of Technology Durgapur, 2016-2020
 
 Work experience
 ======
@@ -34,12 +34,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* RTL Design - Verilog, SystemVerilog
+* Computer Architecture System Simulation (NeuroSim, ScaleSIM)
+* PyTorch
 
 Publications
 ======
