@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv-layout
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
