@@ -1,5 +1,7 @@
 ---
 title: "Neuro-Photonix: Enabling Near-Sensor Neuro-Symbolic AI Computing on Silicon Photonics Substrate"
+
+category: manuscripts
 collection: publications
 permalink: /publication/2025-01-01-Neuro-Photonix-Enabling-Near-Sensor-Neuro-Symbolic-AI-Computing-on-Silicon-Photonics-Substrate-najafi2025neuro
 date: 2025-01-01

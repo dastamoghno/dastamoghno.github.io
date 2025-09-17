@@ -1,5 +1,7 @@
 ---
 title: "Bayesian-Informed Hyperdimensional Learning for Intelligent and Efficient Data Processing"
+
+category: conferences
 collection: publications
 permalink: /publication/2024-01-01-Bayesian-Informed-Hyperdimensional-Learning-for-Intelligent-and-Efficient-Data-Processing-barkam2024bayesian
 date: 2024-01-01

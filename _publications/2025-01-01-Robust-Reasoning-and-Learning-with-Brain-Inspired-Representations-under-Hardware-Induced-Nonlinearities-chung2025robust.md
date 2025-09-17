@@ -1,5 +1,7 @@
 ---
 title: "Robust Reasoning and Learning with Brain-Inspired Representations under Hardware-Induced Nonlinearities"
+
+category: conferences
 collection: publications
 permalink: /publication/2025-01-01-Robust-Reasoning-and-Learning-with-Brain-Inspired-Representations-under-Hardware-Induced-Nonlinearities-chung2025robust
 date: 2025-01-01

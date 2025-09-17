@@ -1,5 +1,7 @@
 ---
 title: "Investigation of Voltage Fault Injection Attacks on NN Inference Utilizing NVM Based Weight Storage"
+
+category: conferences
 collection: publications
 permalink: /publication/2023-01-01-Investigation-of-Voltage-Fault-Injection-Attacks-on-NN-Inference-Utilizing-NVM-Based-Weight-Storage-chakraborty2023investigation
 date: 2023-01-01

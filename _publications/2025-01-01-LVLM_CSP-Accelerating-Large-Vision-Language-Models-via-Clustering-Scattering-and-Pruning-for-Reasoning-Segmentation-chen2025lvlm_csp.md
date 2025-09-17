@@ -1,5 +1,7 @@
 ---
 title: "LVLM_CSP: Accelerating Large Vision Language Models via Clustering, Scattering, and Pruning for Reasoning Segmentation"
+
+category: manuscripts
 collection: publications
 permalink: /publication/2025-01-01-LVLM_CSP-Accelerating-Large-Vision-Language-Models-via-Clustering-Scattering-and-Pruning-for-Reasoning-Segmentation-chen2025lvlm_csp
 date: 2025-01-01

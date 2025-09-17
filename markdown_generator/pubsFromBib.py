@@ -114,7 +114,12 @@ for pubsource in publist:
             ## YAML variables
             md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
             
-            md += """collection: """ +  publist[pubsource]["collection"]["name"]
+            if bibdata.entries[bib_id].type == "inproceedings":
+                md += "\ncategory: conferences"
+            elif bibdata.entries[bib_id].type == "article":
+                md += "\ncategory: manuscripts"
+
+            md += """\ncollection: """ +  publist[pubsource]["collection"]["name"]
 
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
             

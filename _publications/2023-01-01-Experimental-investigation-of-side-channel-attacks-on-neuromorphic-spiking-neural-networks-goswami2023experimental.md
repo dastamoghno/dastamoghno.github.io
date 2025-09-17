@@ -1,5 +1,7 @@
 ---
 title: "Experimental investigation of side-channel attacks on neuromorphic spiking neural networks"
+
+category: manuscripts
 collection: publications
 permalink: /publication/2023-01-01-Experimental-investigation-of-side-channel-attacks-on-neuromorphic-spiking-neural-networks-goswami2023experimental
 date: 2023-01-01
