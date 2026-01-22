@@ -4,10 +4,11 @@ title: "Teaching"
 author_profile: true
 ---
 
-My teaching interests reflect my research background in computer architecture and AI hardware systems. Topics I am prepared to teach or support include:
+## Teaching Experience
 
-- Computer architecture and hardware acceleration (graduate/advanced undergraduate level)
-- Energy-efficient AI systems and emerging architectures
-- Electrical engineering foundations informed by my M.S. training at IIT Delhi
-
-I am happy to share sample syllabi or guest lecture materials upon request.
+- FQ' 2025 — **CS178: Machine Learning and Data Mining**, Teaching Assistant
+- SQ' 2025 — **ICS51: Introduction to Computer Organization**, Teaching Assistant
+- WQ' 2025 — **CS151: Digital Logic Design**, Teaching Assistant
+- FQ' 2024 — **ICS51: Introduction to Computer Organization**, Teaching Assistant
+- WQ' 2024 — **ICS51: Introduction to Computer Organization**, Teaching Assistant
+- FQ' 2023 — **ICS32A: Python Programming with Libraries**, Teaching Assistant
