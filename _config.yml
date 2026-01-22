@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Tamoghno Das"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. student in Computer Science at UC Irvine working on computer architecture, AI accelerators, and processing-in-memory systems."
   location         : "Irvine, CA"
   employer         : "University of California, Irvine"
-  uri              : # URL
+  uri              : "https://dastamoghno.github.io"
   email            : "tamoghnd@uci.edu" 
 
   # Academic websites
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "academicpages"
+  github           : "dastamoghno"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
