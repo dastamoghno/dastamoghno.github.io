@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "20250622_173606.jpg"
   name             : "Tamoghno Das"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Ph.D. student in Computer Science at UC Irvine working on computer architecture, AI accelerators, and processing-in-memory systems."
